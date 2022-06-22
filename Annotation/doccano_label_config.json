@@ -1,0 +1,50 @@
+[
+   {
+      "id":1,
+      "text":"Generic He",
+      "prefixKey":null,
+      "suffixKey":"1",
+      "backgroundColor":"#73D8FF",
+      "textColor":"#ffffff"
+   },
+   {
+      "id":2,
+      "text":"Generic She",
+      "prefixKey":null,
+      "suffixKey":"2",
+      "backgroundColor":"#FA28FF",
+      "textColor":"#ffffff"
+   },
+   {
+      "id":3,
+      "text":"Societal Stereotypes",
+      "prefixKey":null,
+      "suffixKey":"3",
+      "backgroundColor":"#68BC00",
+      "textColor":"#ffffff"
+   },
+   {
+      "id":4,
+      "text":"Behavioural Stereotypes",
+      "prefixKey":null,
+      "suffixKey":"4",
+      "backgroundColor":"#FCC400",
+      "textColor":"#ffffff"
+   },
+   {
+      "id":5,
+      "text":"Explicit Marking of Sex",
+      "prefixKey":null,
+      "suffixKey":"5",
+      "backgroundColor":"#7B64FF",
+      "textColor":"#ffffff"
+   },
+   {
+      "id":0,
+      "text":"Non-biased",
+      "prefixKey":null,
+      "suffixKey":"0",
+      "backgroundColor":"#F44E3B",
+      "textColor":"#ffffff"
+   }
+]
